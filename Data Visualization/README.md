@@ -36,7 +36,7 @@ The notebook analyzes:
 
 ## Tech Stack
 
-- Python 🐍
+- Python 
 - Pandas
 - NumPy
 - Matplotlib
