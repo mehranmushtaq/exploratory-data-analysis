@@ -3,7 +3,7 @@
 ## Overview
 
 This repository contains a collection of projects focused on **Exploratory Data Analysis (EDA) using Python.**
-The goal of these projects is to explore datasets, understand underlying patterns, identify relationships between variables, and prepare data for further machine learning or statistical modeling.
+The goal of these projects is to explore datasets, understand underlying patterns, identify relationships between variables, and prepare data for further **machine learning or statistical modeling.**
 
 **EDA** is a crucial step in the **data science pipeline because it helps uncover hidden insights, detect anomalies, and guide feature engineering.**
 
